@@ -1,0 +1,8 @@
+pandas>=3.0.2
+matplotlib>=3.10.8
+seaborn
+pyarrow
+fastparquet
+scikit-learn>=1.8.0
+torch
+tqdm
