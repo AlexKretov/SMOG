@@ -1,0 +1,23 @@
+artifact_path: file:///e:/Data/OTUS/SMOG/notebooks/mlruns/905931862215521625/models/m-c6202175f5e548079cbff56fcc023952/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-c6202175f5e548079cbff56fcc023952
+model_size_bytes: 389334
+model_uuid: m-c6202175f5e548079cbff56fcc023952
+prompts: null
+run_id: b486e095300b45d68aec793ce152a655
+utc_time_created: '2026-04-03 09:17:16.252986'

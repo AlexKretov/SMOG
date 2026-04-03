@@ -6,3 +6,6 @@ fastparquet
 scikit-learn>=1.8.0
 torch
 tqdm
+mlflow=3.10.1
+imblearn
+xgboost

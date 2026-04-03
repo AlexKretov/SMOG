@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/Data/OTUS/SMOG/notebooks/mlruns/905931862215521625/b486e095300b45d68aec793ce152a655/artifacts
+end_time: 1775207839824
+entry_point_name: ''
+experiment_id: '905931862215521625'
+lifecycle_stage: active
+run_id: b486e095300b45d68aec793ce152a655
+run_name: Base (no balancing)_1775207606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775207606028
+status: 3
+tags: []
+user_id: Admin

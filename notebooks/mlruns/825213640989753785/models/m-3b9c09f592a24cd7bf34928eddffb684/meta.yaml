@@ -1,0 +1,10 @@
+artifact_location: file:///e:/Data/OTUS/SMOG/notebooks/mlruns/825213640989753785/models/m-3b9c09f592a24cd7bf34928eddffb684/artifacts
+creation_timestamp: 1775205129781
+experiment_id: '825213640989753785'
+last_updated_timestamp: 1775205132306
+model_id: m-3b9c09f592a24cd7bf34928eddffb684
+model_type: null
+name: model
+source_run_id: 543c8efa1a43443aa88710cbfab54426
+status: 2
+status_message: null

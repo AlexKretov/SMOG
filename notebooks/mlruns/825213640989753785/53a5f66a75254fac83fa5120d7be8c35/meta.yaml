@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/Data/OTUS/SMOG/notebooks/mlruns/825213640989753785/53a5f66a75254fac83fa5120d7be8c35/artifacts
+end_time: 1775206644481
+entry_point_name: ''
+experiment_id: '825213640989753785'
+lifecycle_stage: active
+run_id: 53a5f66a75254fac83fa5120d7be8c35
+run_name: Full + ADASYN_1775206173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775206173514
+status: 3
+tags: []
+user_id: Admin
